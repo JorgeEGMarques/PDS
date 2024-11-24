@@ -1,0 +1,27 @@
+.content {
+    margin: 0 auto;
+    padding-top: 2em;
+    width: 800px;
+}
+
+p {
+    padding-bottom: 2em;
+}
+
+@media (max-width: 800px) {
+    .content {
+        width: 600px;
+    }
+}
+
+@media (max-width: 600px) {
+    .content {
+        width: 400px;
+    }
+}
+
+@media (max-width: 400px) {
+    .content {
+        width: 200px;
+    }
+}

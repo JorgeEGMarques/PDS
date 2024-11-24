@@ -1,0 +1,7 @@
+p {
+    display: flex;
+    font-size: xx-large;
+    justify-content: center;
+    margin-top: 3em;
+    padding: 1em;
+}

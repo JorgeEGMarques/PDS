@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+}
+
+.links {
+    align-items: center;
+    display: flex;
+    font-size: large;
+    font-weight: 500;
+    justify-content: center;
+}
+
+.links li {
+    margin-right: 1em;
+}
+
+.links a {
+    padding: 0.1em 0.3em;
+}
+
+.links a:hover {
+    color: #555;
+}
