@@ -22,6 +22,6 @@ p {
 
 @media (max-width: 400px) {
     .content {
-        width: 220px;
+        width: 90%;
     }
 }
